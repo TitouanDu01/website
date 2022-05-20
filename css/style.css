@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Quattrocento+Sans&display=swap");
+
+@import url("components/container.css");
+@import url("components/bouton.css");
+@import url("components/banner.css");
+@import url("components/cartes.css");
+
+
+
+body {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
+	margin: 0px;
+	background-color: #FFD23D;
+}
+h1,h2,h3 {
+	font-family: 'Quattracenta Sans', sans-serif;
+	fonnt font-weight: bold;
+	margin: 40px;
+	text-align: center;
+}
+
+a { text-decoration: none ;
+ }
+
